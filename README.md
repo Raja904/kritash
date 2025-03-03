@@ -76,4 +76,3 @@ To use this project, simply open the `kritash.html` file in a web browser. Ensur
 
 
 
-![Screenshot_kritash](https://github.com/user-attachments/assets/4f544048-6f50-41db-b204-624299376264)
